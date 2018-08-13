@@ -4,7 +4,7 @@
 	<groupId>net.inveed</groupId>
 	<artifactId>inveed-reflection-inject-root</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Inveed Reflection-Inject Root Project</name>
 	<description>Library for on-the-fly classes manipulation</description>
 	<url>https://github.com/inveed/reflection-inject</url>
@@ -16,7 +16,7 @@
 
 
 	<properties>
-		<global.version>0.0.1</global.version>
+		<global.version>0.0.2-SNAPSHOT</global.version>
 		<javassist-version>3.23.1-GA</javassist-version>
 		<hibernate-version>5.2.8.Final</hibernate-version>
 		<inveed-typeutils-version>0.0.2</inveed-typeutils-version>
@@ -27,7 +27,7 @@
 		<url>https://github.com/inveed/reflection-inject</url>
 		<connection>scm:git:git://github.com/inveed/reflection-inject.git</connection>
 		<developerConnection>scm:git:git@github.com:inveed/reflection-inject.git</developerConnection>
-		<tag>v0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	<!-- Maven build settings -->
