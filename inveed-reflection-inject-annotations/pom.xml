@@ -6,6 +6,6 @@
 	<parent>
 		<groupId>net.inveed</groupId>
 		<artifactId>inveed-reflection-inject-root</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.1</version>
 	</parent>
 </project>
