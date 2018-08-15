@@ -19,8 +19,6 @@
 		<global.version>0.0.2-SNAPSHOT</global.version>
 		<javassist-version>3.23.1-GA</javassist-version>
 		<hibernate-version>5.2.8.Final</hibernate-version>
-		<inveed-typeutils-version>0.0.2</inveed-typeutils-version>
-
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<scm>
